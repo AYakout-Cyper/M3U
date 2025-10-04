@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1,24 Kitchan_v
+http://78.128.125.60:9981/play/a001/index.m3u8
+#EXTINF:-1,AMC_n
+http://78.128.125.60:9981/play/a00t/index.m3u8
+#EXTINF:-1,Agro TV_n
+http://78.128.125.60:9981/play/a00g/index.m3u8
+#EXTINF:-1,BHTV_n
+http://78.128.125.60:9981/play/a00f/index.m3u8
+#EXTINF:-1,BNT 4_v
+http://78.128.125.60:9981/play/a007/index.m3u8
+#EXTINF:-1,BNT1 HD_n
+http://78.128.125.60:9981/play/a00v/index.m3u8
+#EXTINF:-1,BNT2 HD_n
+http://78.128.125.60:9981/play/a010/index.m3u8
+#EXTINF:-1,BNT3 HD_n
+http://78.128.125.60:9981/play/a00w/index.m3u8
+#EXTINF:-1,BNT4 HD_n
+http://78.128.125.60:9981/play/a011/index.m3u8
+#EXTINF:-1,Balkanika HD_n
+http://78.128.125.60:9981/play/a00u/index.m3u8
+#EXTINF:-1,DM Sat_n
+http://78.128.125.60:9981/play/a00e/index.m3u8
+#EXTINF:-1,DW_n
+http://78.128.125.60:9981/play/a00d/index.m3u8
+#EXTINF:-1,Discovery HD_n
+http://78.128.125.60:9981/play/a00z/index.m3u8
+#EXTINF:-1,Duga_n
+http://78.128.125.60:9981/play/a00h/index.m3u8
+#EXTINF:-1,Eurosport 1 HD_n
+http://78.128.125.60:9981/play/a00b/index.m3u8
+#EXTINF:-1,Eurosport 2 HD_n
+http://78.128.125.60:9981/play/a00c/index.m3u8
+#EXTINF:-1,Evrokom HD_n
+http://78.128.125.60:9981/play/a012/index.m3u8
+#EXTINF:-1,FEN TV_n
+http://78.128.125.60:9981/play/a008/index.m3u8
+#EXTINF:-1,Fen Folk_n
+http://78.128.125.60:9981/play/a013/index.m3u8
+#EXTINF:-1,FilmBox Star HD_n
+http://78.128.125.60:9981/play/a009/index.m3u8
+#EXTINF:-1,FilmBox_n
+http://78.128.125.60:9981/play/a014/index.m3u8
+#EXTINF:-1,Nick Jun_n
+http://78.128.125.60:9981/play/a015/index.m3u8
+#EXTINF:-1,Nova HD_v
+http://78.128.125.60:9981/play/a002/index.m3u8
+#EXTINF:-1,PPTV_v
+http://78.128.125.60:9981/play/a006/index.m3u8
+#EXTINF:-1,Passion XXX2_n
+http://78.128.125.60:9981/play/a00j/index.m3u8
+#EXTINF:-1,Passion XXX_n
+http://78.128.125.60:9981/play/a00i/index.m3u8
+#EXTINF:-1,Planeta HD_n
+http://78.128.125.60:9981/play/a00a/index.m3u8
+#EXTINF:-1,RTP Int_n
+http://78.128.125.60:9981/play/a00k/index.m3u8
+#EXTINF:-1,SAT1_n
+http://78.128.125.60:9981/play/a00s/index.m3u8
+#EXTINF:-1,Skat TV_n
+http://78.128.125.60:9981/play/a00l/index.m3u8
+#EXTINF:-1,Star Ch_v
+http://78.128.125.60:9981/play/a005/index.m3u8
+#EXTINF:-1,Star Crime_v
+http://78.128.125.60:9981/play/a003/index.m3u8
+#EXTINF:-1,Star Life_v
+http://78.128.125.60:9981/play/a004/index.m3u8
+#EXTINF:-1,Svet Plus_n
+http://78.128.125.60:9981/play/a00m/index.m3u8
+#EXTINF:-1,TLC_n
+http://78.128.125.60:9981/play/a00n/index.m3u8
+#EXTINF:-1,TVE Int_n
+http://78.128.125.60:9981/play/a00o/index.m3u8
+#EXTINF:-1,Travel TV_n
+http://78.128.125.60:9981/play/a016/index.m3u8
+#EXTINF:-1,XY max_n
+http://78.128.125.60:9981/play/a00p/index.m3u8
+#EXTINF:-1,XY mix_n
+http://78.128.125.60:9981/play/a00q/index.m3u8
+#EXTINF:-1,XY plus_n
+http://78.128.125.60:9981/play/a00r/index.m3u8
+#EXTINF:-1,btv Action HD_n
+http://78.128.125.60:9981/play/a00x/index.m3u8
+#EXTINF:-1,btv HD_n
+http://78.128.125.60:9981/play/a00y/index.m3u8
+#EXTINF:-1,т_A HABER HD
+http://78.128.125.60:9981/play/a017/index.m3u8
+#EXTINF:-1,т_A SPOR HD
+http://78.128.125.60:9981/play/a018/index.m3u8
+#EXTINF:-1,т_ATV HD
+http://78.128.125.60:9981/play/a019/index.m3u8
+#EXTINF:-1,т_CNN TÜRK HD
+http://78.128.125.60:9981/play/a01f/index.m3u8
+#EXTINF:-1,т_DREAM TÜRK
+http://78.128.125.60:9981/play/a01g/index.m3u8
+#EXTINF:-1,т_HABERTURK HD
+http://78.128.125.60:9981/play/a01c/index.m3u8
+#EXTINF:-1,т_KANAL D HD
+http://78.128.125.60:9981/play/a01h/index.m3u8
+#EXTINF:-1,т_LİDER HABER HD
+http://78.128.125.60:9981/play/a01i/index.m3u8
+#EXTINF:-1,т_SHOW HD
+http://78.128.125.60:9981/play/a01d/index.m3u8
+#EXTINF:-1,т_SHOW MAX HD
+http://78.128.125.60:9981/play/a01e/index.m3u8
+#EXTINF:-1,т_SPORTSTV
+http://78.128.125.60:9981/play/a01j/index.m3u8
+#EXTINF:-1,т_T.A.Y TV
+http://78.128.125.60:9981/play/a01k/index.m3u8
+#EXTINF:-1,т_TEVE2 HD
+http://78.128.125.60:9981/play/a01l/index.m3u8
+#EXTINF:-1,т_YENİ KOCAELİ TV
+http://78.128.125.60:9981/play/a01m/index.m3u8
+#EXTINF:-1,т_minikaCOCUK
+http://78.128.125.60:9981/play/a01a/index.m3u8
+#EXTINF:-1,т_minikaGO
+http://78.128.125.60:9981/play/a01b/index.m3u8
