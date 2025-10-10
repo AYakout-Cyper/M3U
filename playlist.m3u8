@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,BILD HD
+http://149.62.177.108:8000/play/a013/index.m3u8
+#EXTINF:-1,Channel21 HD
+http://149.62.177.108:8000/play/a016/index.m3u8
+#EXTINF:-1,DMAX HD
+http://149.62.177.108:8000/play/a01i/index.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://149.62.177.108:8000/play/a00t/index.m3u8
+#EXTINF:-1,Disney Channel HD
+http://149.62.177.108:8000/play/a00r/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://149.62.177.108:8000/play/a01b/index.m3u8
+#EXTINF:-1,HSE Extra HD
+http://149.62.177.108:8000/play/a00s/index.m3u8
+#EXTINF:-1,Handystar TV HD
+http://149.62.177.108:8000/play/a014/index.m3u8
+#EXTINF:-1,Kabel Eins Doku HD
+http://149.62.177.108:8000/play/a009/index.m3u8
+#EXTINF:-1,MTV HD
+http://149.62.177.108:8000/play/a015/index.m3u8
+#EXTINF:-1,NITRO HD
+http://149.62.177.108:8000/play/a01q/index.m3u8
+#EXTINF:-1,Pro7 MAXX HD
+http://149.62.177.108:8000/play/a00d/index.m3u8
+#EXTINF:-1,ProSieben HD
+http://149.62.177.108:8000/play/a006/index.m3u8
+#EXTINF:-1,QVC STYLE HD
+http://149.62.177.108:8000/play/a017/index.m3u8
+#EXTINF:-1,QVC ZWEI HD
+http://149.62.177.108:8000/play/a00u/index.m3u8
+#EXTINF:-1,RTL HD
+http://149.62.177.108:8000/play/a00f/index.m3u8
+#EXTINF:-1,RTL UHD
+http://149.62.177.108:8000/play/a03v/index.m3u8
+#EXTINF:-1,RTLZWEI HD
+http://149.62.177.108:8000/play/a00i/index.m3u8
+#EXTINF:-1,RTLup HD
+http://149.62.177.108:8000/play/a00j/index.m3u8
+#EXTINF:-1,SAT 1 GOLD
+http://149.62.177.108:8000/play/a01a/index.m3u8
+#EXTINF:-1,SAT.1 HD
+http://149.62.177.108:8000/play/a005/index.m3u8
+#EXTINF:-1,SIXX HD
+http://149.62.177.108:8000/play/a008/index.m3u8
+#EXTINF:-1,SPORT1 HD
+http://149.62.177.108:8000/play/a00v/index.m3u8
+#EXTINF:-1,SUPER RTL HD
+http://149.62.177.108:8000/play/a01p/index.m3u8
+#EXTINF:-1,TELE 5 HD
+http://149.62.177.108:8000/play/a01h/index.m3u8
+#EXTINF:-1,TLC HD
+http://149.62.177.108:8000/play/a012/index.m3u8
+#EXTINF:-1,VOX HD
+http://149.62.177.108:8000/play/a00g/index.m3u8
+#EXTINF:-1,VOXup HD
+http://149.62.177.108:8000/play/a00k/index.m3u8
+#EXTINF:-1,kabel eins HD
+http://149.62.177.108:8000/play/a007/index.m3u8
+#EXTINF:-1,ntv HD
+http://149.62.177.108:8000/play/a00h/index.m3u8
+#EXTINF:-1,sonnenklar.TV HD
+http://149.62.177.108:8000/play/a01g/index.m3u8
